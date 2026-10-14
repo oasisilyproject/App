@@ -109,7 +109,7 @@
   "10-14": [
     {
       "id": "Thisday2",
-      "title": "Boardwalk - Manchester, England",
+      "title": "Boardwalk - Manchester",
       "year": 1992,
       "type": "Live Concert",
       "image": "https://raw.githubusercontent.com/oasisilyproject/App/main/Images/Live/IMG_199201.jpeg",
@@ -119,7 +119,7 @@
     },
     {
       "id": "Thisday72",
-      "title": "Uptown Bar - Minneapolis, MN, USA",
+      "title": "Uptown Bar - Minneapolis",
       "year": 1994,
       "type": "Live Concert",
       "image": "https://raw.githubusercontent.com/oasisilyproject/App/main/Images/Live/IMG_199413.jpeg",
@@ -142,7 +142,7 @@
     },
     {
       "id": "Thisday163",
-      "title": "Orpheum Theatre - Boston, MA, USA",
+      "title": "Orpheum Theatre - Boston",
       "year": 1995,
       "type": "Live Concert",
       "image": "https://raw.githubusercontent.com/oasisilyproject/App/main/Images/Live/IMG_199507.jpeg",
@@ -167,7 +167,7 @@
     },
     {
       "id": "Thisday430",
-      "title": "Barrowland - Glasgow, Scotland",
+      "title": "Barrowland - Glasgow",
       "year": 2001,
       "type": "Live Concert",
       "image": "https://raw.githubusercontent.com/oasisilyproject/App/main/Images/Live/IMG_14102001.jpeg",
@@ -199,7 +199,7 @@
     },
     {
       "id": "Thisday491",
-      "title": "Royal Theatre - Canberra, Australia",
+      "title": "Royal Theatre - Canberra",
       "year": 2002,
       "type": "Live Concert",
       "image": "https://raw.githubusercontent.com/oasisilyproject/App/main/Images/Live/IMG_200207.jpeg",
@@ -228,7 +228,7 @@
     },
     {
       "id": "Thisday719",
-      "title": "National Indoor Arena - Birmingham, England",
+      "title": "National Indoor Arena - Birmingham",
       "year": 2008,
       "type": "Live Concert",
       "image": "https://raw.githubusercontent.com/oasisilyproject/App/main/Images/Live/IMG_200801.jpeg",
